@@ -23,8 +23,7 @@ Furthermore, automated PDF management with LLM-powered accurate labeling with ke
       reverse
     />
     <VerticalFeatureRow
-      title="Can you describe the general workflow of the automated invoice processing by Esker based on the
-provided diagram and text?"
+      title="Can you describe the general workflow of the automated invoice processing by Esker?"
       description="The automated invoice processing workflow by Esker begins with Data Ingestion from a source, likely the Esker application. This data then moves through a Data Processing Pipeline where it undergoes format standardization for type and datetime conformity.
 Finally, an Automated Iterative Process takes place, involving automated invoice retrieval and storage. This step utilizes metadata tagging for PDF files, incorporating the invoice number, vendor name, and posting date for enhanced searchability and to create an audit trail.
 This entire automated process significantly reduces execution time compared to manual processing.
