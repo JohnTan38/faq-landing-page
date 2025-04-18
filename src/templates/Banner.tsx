@@ -11,10 +11,10 @@ const Banner = () => (
       subtitle="Automated Invoice Download"
       buttonContainerStyle={{ display: 'flex', gap: '1rem' }}
       buttons={[
-        <Link href="https://esker-pending-payment-documentation-8duq3tmgl.vercel.app">
+        <Link href="https://esker-pending-payment-documentation-git-master-johntan38s-projects.vercel.app">
           <Button>Documentation</Button>
         </Link>,
-        <Link href="https://notebooklm.google.com/notebook/744a8304-aa83-4a99-9d5b-6f8aadf63118/audio" key="listen-link">
+        <Link href="/Automated_Invoice_Processing_Efficiency_Accuracy_and_Scalability.wav" key="listen-link">
         {/* Use an img tag instead of Button */}
         <img
           src="/listen_button.JPG" // Corrected path. the image is in /public.
